@@ -2,7 +2,7 @@
 <h1> Giselle Cardoso</h1>
 <h3> Hello, World!</h3>
 <p>Tenho 34 anos e sou mineira, de Belo Horizonte. Há alguns meses mergulhei de cabeça na área da Programação.</p>
-<p>Quanto mais aprendo, mais raiva passo :rofl:	 Porém, desistir não é uma opção!</p>
+<p>Quanto mais aprendo, mais passo raiva! 🤣 Porém, desistir não é uma opção!</p>
 	
 	
 <h4>Ferramentas e Tecnologias:</h4>
